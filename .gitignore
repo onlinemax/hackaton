@@ -1,2 +1,6 @@
 hackaton/
 main.py
+.vscode/
+.expo/
+program.zip
+__pycache__
